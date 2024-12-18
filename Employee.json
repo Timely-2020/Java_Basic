@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Harish",
+    "salary": 18000,
+    "newJoiner": true,
+    "trainingPending": false,
+    "rating": 1
+  },
+  {
+    "id": 2,
+    "name": "Mahesh",
+    "salary": 19000,
+    "newJoiner": false,
+    "trainingPending": true,
+    "rating": 2
+  },
+  {
+    "id": 3,
+    "name": "Lokesh",
+    "salary": 20000,
+    "newJoiner": true,
+    "trainingPending": true,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "name": "Satish",
+    "salary": 21000,
+    "newJoiner": false,
+    "trainingPending": false,
+    "rating": 4
+  }
+]
